@@ -3,7 +3,7 @@ Resume-Management-Archetype
 
 Resume-Management-Archetype
 
-1. clone into local.
+1. clone into local
 2. mvn clean install
 3. To generate archetype, goto project and run 
             mvn archetype:create-from-project
