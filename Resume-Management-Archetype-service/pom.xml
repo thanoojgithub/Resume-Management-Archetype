@@ -7,6 +7,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>Resume-Management-Archetype-service</artifactId>
+	<build>
+    <finalName>${artifactId}-${version}</finalName>
+	</build>
 	<dependencies>
 		<dependency>
 			<groupId>${project.groupId}</groupId>

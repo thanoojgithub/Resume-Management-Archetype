@@ -26,6 +26,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>Resume-Management-Archetype-web</finalName>
+    <finalName>${artifactId}-${version}</finalName>
 	</build>
 </project>
